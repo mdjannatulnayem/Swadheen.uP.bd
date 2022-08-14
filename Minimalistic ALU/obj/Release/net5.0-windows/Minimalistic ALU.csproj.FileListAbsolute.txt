@@ -1,0 +1,29 @@
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.exe
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.deps.json
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.runtimeconfig.json
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.runtimeconfig.dev.json
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.dll
+D:\Minimalistic ALU\bin\Release\net5.0-windows\ref\Minimalistic ALU.dll
+D:\Minimalistic ALU\bin\Release\net5.0-windows\Minimalistic ALU.pdb
+D:\Minimalistic ALU\bin\Release\net5.0-windows\System.IO.Ports.dll
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+D:\Minimalistic ALU\bin\Release\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.csproj.AssemblyReference.cache
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic_ALU.MainWindow.resources
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic_ALU.OutputWindow.resources
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic_ALU.Properties.Resources.resources
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.csproj.GenerateResource.cache
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.AssemblyInfoInputs.cache
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.AssemblyInfo.cs
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.csproj.CoreCompileInputs.cache
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.csproj.CopyComplete
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.dll
+D:\Minimalistic ALU\obj\Release\net5.0-windows\ref\Minimalistic ALU.dll
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.pdb
+D:\Minimalistic ALU\obj\Release\net5.0-windows\Minimalistic ALU.genruntimeconfig.cache
