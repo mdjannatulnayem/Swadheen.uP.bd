@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Shadin ~uP\\Minimalistic ALU\\Minimalistic ALU.csproj": {}
+    "D:\\Shadhin.uP.bd\\Minimalistic ALU\\Minimalistic ALU.csproj": {}
   },
   "projects": {
-    "X:\\Shadin ~uP\\Minimalistic ALU\\Minimalistic ALU.csproj": {
+    "D:\\Shadhin.uP.bd\\Minimalistic ALU\\Minimalistic ALU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Shadin ~uP\\Minimalistic ALU\\Minimalistic ALU.csproj",
+        "projectUniqueName": "D:\\Shadhin.uP.bd\\Minimalistic ALU\\Minimalistic ALU.csproj",
         "projectName": "Minimalistic ALU",
-        "projectPath": "X:\\Shadin ~uP\\Minimalistic ALU\\Minimalistic ALU.csproj",
+        "projectPath": "D:\\Shadhin.uP.bd\\Minimalistic ALU\\Minimalistic ALU.csproj",
         "packagesPath": "C:\\Users\\nayem\\.nuget\\packages\\",
-        "outputPath": "X:\\Shadin ~uP\\Minimalistic ALU\\obj\\",
+        "outputPath": "D:\\Shadhin.uP.bd\\Minimalistic ALU\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\nayem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,7 +56,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
